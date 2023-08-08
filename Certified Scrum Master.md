@@ -1,4 +1,3 @@
-[![DevOps Junkies](img/DevOpsJunkies_logo.png)](https://github.com/ProDataMan/DevOpsJunkies)
 # Certified Scrum Master (CSM)
 
 **Course Information:**
